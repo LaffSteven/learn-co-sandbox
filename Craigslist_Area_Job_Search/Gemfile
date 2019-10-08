@@ -1,5 +1,6 @@
 
 gem 'Craigslist_Area_Job_Search'
+gem "nokogiri", ">= 1.10.4"
 
 source "https://rubygems.org"
 
