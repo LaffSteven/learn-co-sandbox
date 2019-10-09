@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/Craigslist_Area_Job_Search'
+
+Craigslist_Area_Job_Search::CLI.new.call

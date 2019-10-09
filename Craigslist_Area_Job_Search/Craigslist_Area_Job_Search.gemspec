@@ -5,7 +5,7 @@ require "Craigslist_Area_Job_Search/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "Craigslist_Area_Job_Search"
-  spec.version       = CraigslistAreaJobSearch::VERSION
+  spec.version       = Craigslist_Area_Job_Search::VERSION
   spec.authors       = ["'Steven Laff'"]
   spec.email         = ["'steve.laff@gmail.com'"]
 
