@@ -1,11 +1,11 @@
 
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "Craigslist_Area_Job_Search/version"
+require "job_search/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "Craigslist_Area_Job_Search"
-  spec.version       = Craigslist_Area_Job_Search::VERSION
+  spec.name          = "job_search"
+  spec.version       = JobSearch::VERSION
   spec.authors       = ["'Steven Laff'"]
   spec.email         = ["'steve.laff@gmail.com'"]
 
